@@ -1,19 +1,58 @@
-## Running React on Repl.it
-
 [![Run on Repl.it](https://replit.com/badge/github/kameron-h/CodePathWEB102Project)](https://replit.com/new/github/kameron-h/CodePathWEB102Project)
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+# Web Development Project 1 - *Name of App Here*
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+Submitted by: **Kameron Harrison**
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+This web app: **A list of popular Japanese Fashion (J-Fashion) brands & retailers on the web.**
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Time spent: **4** hours spent in total
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Required Features
 
-### Typescript
+The following **required** functionality is completed:
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to related resources are on each card component
+- [ ] The site is responsive for both desktop and mobile formats
+
+The following **additional** features are implemented:
+
+* [x] Logo images added to each card
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://imgur.com/a/oQ2N1uk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with LICECap
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+The most challenging part was formatting the cards & card props correctly on the webpage.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
