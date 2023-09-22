@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/oQ2N1uk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WEB102 Unit 1 Project Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap
