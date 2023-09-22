@@ -1,6 +1,6 @@
 [![Run on Repl.it](https://replit.com/badge/github/kameron-h/CodePathWEB102Project)](https://replit.com/new/github/kameron-h/CodePathWEB102Project)
 
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *J-Fashion Shops*
 
 Submitted by: **Kameron Harrison**
 
@@ -43,7 +43,7 @@ The most challenging part was formatting the cards & card props correctly on the
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kameron H.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
